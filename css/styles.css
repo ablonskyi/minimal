@@ -1,6 +1,7 @@
 .container{
     max-width: 940px;
 }
+/*git test css*/
 header .container, footer .container, section .container, div .container{
     display: flex;
     justify-content: space-between;
