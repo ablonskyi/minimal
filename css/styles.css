@@ -270,6 +270,7 @@ blockquote{
 }
 .contact_info  p{
     margin: 0;
+/*    git test p*/
 }
 .street{
     display: flex;
